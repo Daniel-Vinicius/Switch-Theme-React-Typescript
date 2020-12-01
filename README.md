@@ -6,10 +6,10 @@
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Daniel-Vinicius/Switch-Theme-React-Typescript?style=social)](https://github.com/Daniel-Vinicius/Switch-Theme-React-Typescript/stargazers)
 
-<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Switch-Theme-React-Typescript/blob/master/.github/light.JPG" />
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Switch-Theme-React-Typescript/blob/main/.github/dark.PNG" />
 </h2>
 
-<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Switch-Theme-React-Typescript/.github/dark.JPG" />
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Switch-Theme-React-Typescript/blob/main/.github/light.PNG" />
 </h2>
 
 ### Features 
@@ -78,7 +78,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ### 👨‍💻Autor <a id="autor"> </a>
 
 ---
-<a href="https://github.com/Seu-perfil" style="text-decoration: none;">
+<a href="https://github.com/Daniel-Vinicius" style="text-decoration: none;">
 <img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/66279500?s=460&u=03d962bd1fda436ca49d4bbfbf2f30bdd566221d&v=4" width="100px;"  alt="Daniel Vinícius"/>
 
 <br />
