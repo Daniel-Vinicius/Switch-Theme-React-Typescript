@@ -8,7 +8,7 @@
 
 <h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Switch-Theme-React-Typescript/blob/main/.github/dark.PNG" />
 </h2>
-
+<!---->
 <h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Switch-Theme-React-Typescript/blob/main/.github/light.PNG" />
 </h2>
 
